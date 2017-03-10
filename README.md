@@ -15,7 +15,7 @@ Notes:
 
 Time Tracking:
 
-This application took somewhere around 20 hours to complete. Around 4 in requirements gathering and design, 10 in development, and the remining in configuration of deliverables, testing, and revisions.
+This application took somewhere around 20-25 hours to complete. Around 4 in requirements gathering and design, 10-15 in development, and the remining in configuration of deliverables, testing, and revisions.
 
 Upcoming Features:
 
